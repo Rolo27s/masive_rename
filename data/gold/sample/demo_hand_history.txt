@@ -1,0 +1,13 @@
+GAME #DEMO0001 Texas Hold'em NL €0.05/€0.10 2026-11-19 22:00:00/CET
+Table DemoTable, 000000001
+Seat 1: randomname000001 (€10.00 in chips)
+Seat 2: randomname000002 (€10.00 in chips)  DEALER
+randomname000001: Post SB €0.05
+randomname000002: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000001 [SA HK]
+randomname000001: Raise (NF) €0.30
+randomname000002: Fold
+*** SUMMARY ***
+Total pot €0.15 Rake €0.00
+randomname000001: wins €0.15

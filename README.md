@@ -4,6 +4,17 @@ This project hides player names in poker hand history files.
 
 It is made for PT4 exports, so you can share/review hands without exposing real nicknames.
 
+## Demo data included in this repo
+
+This repository keeps only a tiny example in:
+
+- `data\bronze\sample`
+- `data\gold\sample`
+
+It is only to make the functionality intuitive for third persons.
+
+Before real use, remove/ignore demo files and copy your own PT4 exports into `data\bronze`.
+
 ## Quick start (copy/paste)
 
 ```bash

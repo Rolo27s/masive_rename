@@ -1,0 +1,27 @@
+.venv/
+
+__pycache__/
+*.py[cod]
+
+build/
+dist/
+*.egg-info/
+
+# Local poker data (input/output)
+data/bronze/*
+!data/bronze/README.md
+!data/bronze/sample/
+!data/bronze/sample/**
+
+data/gold/*
+!data/gold/README.md
+!data/gold/sample/
+!data/gold/sample/**
+
+# Keep silver docs if needed
+!data/silver/
+!data/silver/README.md
+
+data/gold/anonymization.sqlite
+data/gold/anonymization.sqlite-shm
+data/gold/anonymization.sqlite-wal
