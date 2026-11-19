@@ -1,5 +1,11 @@
 # masive_rename
 
+## USE THIS PROMPT INTO CHATGPT (spanish)
+> podrias usar este repositorio para convertir un fichero .zip con muchos ficheros .txt que contenga informacion sobre manos de poker a otro .zip con los nombres de los jugadores ocultos?
+  https://github.com/Rolo27s/masive_rename
+
+
+
 This project hides player names in poker hand history files.
 
 It is made for PT4 exports, so you can share/review hands without exposing real nicknames.
