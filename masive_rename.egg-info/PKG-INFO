@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: masive-rename
+Version: 0.1.0
+Summary: Local Spark session setup with Delta Lake support
+Requires-Python: >=3.9
+Requires-Dist: pyspark<4.0.0,>=3.5.0
+Requires-Dist: delta-spark<4.0.0,>=3.2.0

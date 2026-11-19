@@ -1,0 +1,483 @@
+﻿Winamax Poker - CashGame - HandId: #23207664-32-1794987355 - Holdem no limit (0.05€/0.10€) - 2026/11/18 07:35:55 UTC
+Table: 'Vienna' 5-max (real money) Seat #3 is the button
+Seat 1: NapTime7 (10.67€)
+Seat 2: Mishel S (11.63€)
+Seat 3: 2AsK4AsIGN (9.50€)
+Seat 4: Shustrets (10.06€)
+Seat 5: randomname000035 (10€)
+*** ANTE/BLINDS ***
+Shustrets posts small blind 0.05€
+randomname000035 posts big blind 0.10€
+Dealt to randomname000035 [8h Jh]
+*** PRE-FLOP ***
+NapTime7 raises 0.13€ to 0.23€
+Mishel S folds
+2AsK4AsIGN folds
+Shustrets folds
+randomname000035 calls 0.13€
+*** FLOP *** [5d Td 4c]
+randomname000035 checks
+NapTime7 bets 0.34€
+randomname000035 folds
+NapTime7 collected 0.82€ from pot
+*** SUMMARY ***
+Total pot 0.82€ | Rake 0.03€
+Board: [5d Td 4c]
+Seat 1: NapTime7 won 0.82€
+
+
+Winamax Poker - CashGame - HandId: #23207664-33-1794987382 - Holdem no limit (0.05€/0.10€) - 2026/11/18 07:36:22 UTC
+Table: 'Vienna' 5-max (real money) Seat #4 is the button
+Seat 1: NapTime7 (10.92€)
+Seat 2: Mishel S (11.63€)
+Seat 3: 2AsK4AsIGN (9.50€)
+Seat 4: Shustrets (10.01€)
+Seat 5: randomname000035 (10€)
+*** ANTE/BLINDS ***
+randomname000035 posts small blind 0.05€
+NapTime7 posts big blind 0.10€
+Dealt to randomname000035 [9c 5h]
+*** PRE-FLOP ***
+Mishel S folds
+2AsK4AsIGN folds
+Shustrets folds
+randomname000035 folds
+NapTime7 collected 0.15€ from pot
+*** SUMMARY ***
+Total pot 0.15€ | No rake
+Seat 1: NapTime7 (big blind) won 0.15€
+
+
+Winamax Poker - CashGame - HandId: #23207664-34-1794987392 - Holdem no limit (0.05€/0.10€) - 2026/11/18 07:36:32 UTC
+Table: 'Vienna' 5-max (real money) Seat #5 is the button
+Seat 1: NapTime7 (10.97€)
+Seat 2: Mishel S (11.63€)
+Seat 3: 2AsK4AsIGN (9.50€)
+Seat 4: Shustrets (10.01€)
+Seat 5: randomname000035 (10€)
+*** ANTE/BLINDS ***
+NapTime7 posts small blind 0.05€
+Mishel S posts big blind 0.10€
+Dealt to randomname000035 [Jd Jh]
+*** PRE-FLOP ***
+2AsK4AsIGN folds
+Shustrets folds
+randomname000035 raises 0.15€ to 0.25€
+NapTime7 folds
+Mishel S folds
+randomname000035 collected 0.40€ from pot
+*** SUMMARY ***
+Total pot 0.40€ | No rake
+Seat 5: randomname000035 (button) won 0.40€
+
+
+Winamax Poker - CashGame - HandId: #23207664-35-1794987429 - Holdem no limit (0.05€/0.10€) - 2026/11/18 07:37:09 UTC
+Table: 'Vienna' 5-max (real money) Seat #1 is the button
+Seat 1: NapTime7 (10.92€)
+Seat 2: Mishel S (11.53€)
+Seat 3: 2AsK4AsIGN (9.50€)
+Seat 4: Shustrets (10.01€)
+Seat 5: randomname000035 (10.15€)
+*** ANTE/BLINDS ***
+Mishel S posts small blind 0.05€
+2AsK4AsIGN posts big blind 0.10€
+Dealt to randomname000035 [Jh Ks]
+*** PRE-FLOP ***
+Shustrets raises 0.10€ to 0.20€
+randomname000035 folds
+NapTime7 folds
+Mishel S folds
+2AsK4AsIGN folds
+Shustrets collected 0.35€ from pot
+*** SUMMARY ***
+Total pot 0.35€ | No rake
+Seat 4: Shustrets won 0.35€
+
+
+Winamax Poker - CashGame - HandId: #23207664-36-1794987454 - Holdem no limit (0.05€/0.10€) - 2026/11/18 07:37:34 UTC
+Table: 'Vienna' 5-max (real money) Seat #2 is the button
+Seat 1: NapTime7 (10.92€)
+Seat 2: Mishel S (11.48€)
+Seat 3: 2AsK4AsIGN (9.40€)
+Seat 4: Shustrets (10.16€)
+Seat 5: randomname000035 (10.15€)
+*** ANTE/BLINDS ***
+2AsK4AsIGN posts small blind 0.05€
+Shustrets posts big blind 0.10€
+Dealt to randomname000035 [2d Kc]
+*** PRE-FLOP ***
+randomname000035 folds
+NapTime7 folds
+Mishel S folds
+2AsK4AsIGN raises 0.12€ to 0.22€
+Shustrets folds
+2AsK4AsIGN collected 0.32€ from pot
+*** SUMMARY ***
+Total pot 0.32€ | No rake
+Seat 3: 2AsK4AsIGN (small blind) won 0.32€
+
+
+Winamax Poker - CashGame - HandId: #23207664-37-1794987472 - Holdem no limit (0.05€/0.10€) - 2026/11/18 07:37:52 UTC
+Table: 'Vienna' 5-max (real money) Seat #3 is the button
+Seat 1: NapTime7 (10.92€)
+Seat 2: Mishel S (11.48€)
+Seat 3: 2AsK4AsIGN (9.50€)
+Seat 4: Shustrets (10.06€)
+Seat 5: randomname000035 (10.15€)
+*** ANTE/BLINDS ***
+Shustrets posts small blind 0.05€
+randomname000035 posts big blind 0.10€
+Dealt to randomname000035 [Jh 2c]
+*** PRE-FLOP ***
+NapTime7 raises 0.13€ to 0.23€
+Mishel S folds
+2AsK4AsIGN folds
+Shustrets folds
+randomname000035 folds
+NapTime7 collected 0.38€ from pot
+*** SUMMARY ***
+Total pot 0.38€ | No rake
+Seat 1: NapTime7 won 0.38€
+
+
+Winamax Poker - CashGame - HandId: #23207664-38-1794987486 - Holdem no limit (0.05€/0.10€) - 2026/11/18 07:38:06 UTC
+Table: 'Vienna' 5-max (real money) Seat #4 is the button
+Seat 1: NapTime7 (11.07€)
+Seat 2: Mishel S (11.48€)
+Seat 3: 2AsK4AsIGN (9.50€)
+Seat 4: Shustrets (10.01€)
+Seat 5: randomname000035 (10.05€)
+*** ANTE/BLINDS ***
+randomname000035 posts small blind 0.05€
+NapTime7 posts big blind 0.10€
+Dealt to randomname000035 [7c 2d]
+*** PRE-FLOP ***
+Mishel S folds
+2AsK4AsIGN raises 0.12€ to 0.22€
+Shustrets folds
+randomname000035 folds
+NapTime7 calls 0.12€
+*** FLOP *** [8s 4c 2s]
+NapTime7 bets 0.33€
+2AsK4AsIGN folds
+NapTime7 collected 0.79€ from pot
+*** SUMMARY ***
+Total pot 0.79€ | Rake 0.03€
+Board: [8s 4c 2s]
+Seat 1: NapTime7 (big blind) won 0.79€
+
+
+Winamax Poker - CashGame - HandId: #23207664-39-1794987518 - Holdem no limit (0.05€/0.10€) - 2026/11/18 07:38:38 UTC
+Table: 'Vienna' 5-max (real money) Seat #5 is the button
+Seat 1: NapTime7 (11.31€)
+Seat 2: Mishel S (11.48€)
+Seat 3: 2AsK4AsIGN (9.28€)
+Seat 4: Shustrets (10.01€)
+Seat 5: randomname000035 (10€)
+*** ANTE/BLINDS ***
+NapTime7 posts small blind 0.05€
+Mishel S posts big blind 0.10€
+Dealt to randomname000035 [4d 3d]
+*** PRE-FLOP ***
+2AsK4AsIGN raises 0.12€ to 0.22€
+Shustrets folds
+randomname000035 folds
+NapTime7 folds
+Mishel S calls 0.12€
+*** FLOP *** [Jd Qs 8d]
+Mishel S checks
+2AsK4AsIGN checks
+*** TURN *** [Jd Qs 8d][2c]
+Mishel S checks
+2AsK4AsIGN bets 0.32€
+Mishel S folds
+2AsK4AsIGN collected 0.78€ from pot
+*** SUMMARY ***
+Total pot 0.78€ | Rake 0.03€
+Board: [Jd Qs 8d 2c]
+Seat 3: 2AsK4AsIGN won 0.78€
+
+
+Winamax Poker - CashGame - HandId: #23207664-40-1794987574 - Holdem no limit (0.05€/0.10€) - 2026/11/18 07:39:34 UTC
+Table: 'Vienna' 5-max (real money) Seat #1 is the button
+Seat 1: NapTime7 (11.26€)
+Seat 2: Mishel S (11.26€)
+Seat 3: 2AsK4AsIGN (9.52€)
+Seat 4: Shustrets (10.01€)
+Seat 5: randomname000035 (10€)
+*** ANTE/BLINDS ***
+Mishel S posts small blind 0.05€
+2AsK4AsIGN posts big blind 0.10€
+Dealt to randomname000035 [8h Ad]
+*** PRE-FLOP ***
+Shustrets folds
+randomname000035 raises 0.15€ to 0.25€
+NapTime7 folds
+Mishel S raises 0.85€ to 1.10€
+2AsK4AsIGN folds
+randomname000035 folds
+Mishel S collected 1.45€ from pot
+*** SUMMARY ***
+Total pot 1.45€ | No rake
+Seat 2: Mishel S (small blind) won 1.45€
+
+
+Winamax Poker - CashGame - HandId: #23207664-41-1794987595 - Holdem no limit (0.05€/0.10€) - 2026/11/18 07:39:55 UTC
+Table: 'Vienna' 5-max (real money) Seat #2 is the button
+Seat 1: NapTime7 (11.26€)
+Seat 2: Mishel S (11.61€)
+Seat 3: 2AsK4AsIGN (9.42€)
+Seat 4: Shustrets (10.01€)
+Seat 5: randomname000035 (10€)
+*** ANTE/BLINDS ***
+2AsK4AsIGN posts small blind 0.05€
+Shustrets posts big blind 0.10€
+Dealt to randomname000035 [4d 7h]
+*** PRE-FLOP ***
+randomname000035 folds
+NapTime7 folds
+Mishel S raises 0.15€ to 0.25€
+2AsK4AsIGN folds
+Shustrets folds
+Mishel S collected 0.40€ from pot
+*** SUMMARY ***
+Total pot 0.40€ | No rake
+Seat 2: Mishel S (button) won 0.40€
+
+
+Winamax Poker - CashGame - HandId: #23207664-42-1794987615 - Holdem no limit (0.05€/0.10€) - 2026/11/18 07:40:15 UTC
+Table: 'Vienna' 5-max (real money) Seat #3 is the button
+Seat 1: NapTime7 (11.26€)
+Seat 2: Mishel S (11.76€)
+Seat 3: 2AsK4AsIGN (9.37€)
+Seat 4: Shustrets (10€)
+Seat 5: randomname000035 (10€)
+*** ANTE/BLINDS ***
+Shustrets posts small blind 0.05€
+randomname000035 posts big blind 0.10€
+Dealt to randomname000035 [8c 3c]
+*** PRE-FLOP ***
+NapTime7 folds
+Mishel S raises 0.15€ to 0.25€
+2AsK4AsIGN calls 0.25€
+Shustrets folds
+randomname000035 folds
+*** FLOP *** [6h 2c 2d]
+Mishel S bets 0.16€
+2AsK4AsIGN folds
+Mishel S collected 0.77€ from pot
+*** SUMMARY ***
+Total pot 0.77€ | Rake 0.04€
+Board: [6h 2c 2d]
+Seat 2: Mishel S won 0.77€
+
+
+Winamax Poker - CashGame - HandId: #23207664-43-1794987641 - Holdem no limit (0.05€/0.10€) - 2026/11/18 07:40:41 UTC
+Table: 'Vienna' 5-max (real money) Seat #4 is the button
+Seat 1: NapTime7 (11.26€)
+Seat 2: Mishel S (12.12€)
+Seat 3: 2AsK4AsIGN (9.12€)
+Seat 4: Shustrets (10€)
+Seat 5: randomname000035 (10€)
+*** ANTE/BLINDS ***
+randomname000035 posts small blind 0.05€
+NapTime7 posts big blind 0.10€
+Dealt to randomname000035 [4d Jc]
+*** PRE-FLOP ***
+Mishel S folds
+2AsK4AsIGN raises 0.12€ to 0.22€
+Shustrets folds
+randomname000035 folds
+NapTime7 raises 1.03€ to 1.25€
+2AsK4AsIGN raises 3.13€ to 4.38€
+NapTime7 raises 6.88€ to 11.26€ and is all-in
+2AsK4AsIGN calls 4.74€ and is all-in
+*** FLOP *** [Qc 8s 3c]
+*** TURN *** [Qc 8s 3c][9h]
+*** RIVER *** [Qc 8s 3c 9h][6s]
+*** SHOW DOWN ***
+NapTime7 shows [Ad Qd] (One pair : Queens)
+2AsK4AsIGN shows [9d 9s] (Trips of 9)
+2AsK4AsIGN collected 17.24€ from main pot
+NapTime7 collected 2.14€ from side pot 1
+*** SUMMARY ***
+Total pot 19.38€ | Rake 1.05€
+Board: [Qc 8s 3c 9h 6s]
+Seat 1: NapTime7 (big blind) showed [Ad Qd] and won 2.14€ with One pair : Queens
+Seat 3: 2AsK4AsIGN showed [9d 9s] and won 17.24€ with Trips of 9
+
+
+Winamax Poker - CashGame - HandId: #23207664-44-1794987722 - Holdem no limit (0.05€/0.10€) - 2026/11/18 07:42:02 UTC
+Table: 'Vienna' 5-max (real money) Seat #5 is the button
+Seat 1: NapTime7 (10€)
+Seat 2: Mishel S (12.12€)
+Seat 3: 2AsK4AsIGN (17.24€)
+Seat 4: Shustrets (10€)
+Seat 5: randomname000035 (10€)
+*** ANTE/BLINDS ***
+NapTime7 posts small blind 0.05€
+Mishel S posts big blind 0.10€
+Dealt to randomname000035 [4h 9h]
+*** PRE-FLOP ***
+2AsK4AsIGN raises 0.12€ to 0.22€
+Shustrets folds
+randomname000035 folds
+NapTime7 raises 0.98€ to 1.20€
+Mishel S folds
+2AsK4AsIGN calls 0.98€
+*** FLOP *** [9s Jc 4c]
+NapTime7 checks
+2AsK4AsIGN bets 2€
+NapTime7 calls 2€
+*** TURN *** [9s Jc 4c][Qs]
+NapTime7 checks
+2AsK4AsIGN checks
+*** RIVER *** [9s Jc 4c Qs][8s]
+NapTime7 checks
+2AsK4AsIGN checks
+*** SHOW DOWN ***
+2AsK4AsIGN shows [Ac Js] (One pair : Jacks)
+NapTime7 shows [Jh Jd] (Trips of Jacks)
+NapTime7 collected 6.13€ from pot
+*** SUMMARY ***
+Total pot 6.13€ | Rake 0.37€
+Board: [9s Jc 4c Qs 8s]
+Seat 1: NapTime7 (small blind) showed [Jh Jd] and won 6.13€ with Trips of Jacks
+Seat 3: 2AsK4AsIGN showed [Ac Js] and lost with One pair : Jacks
+
+
+Winamax Poker - CashGame - HandId: #23207664-45-1794987784 - Holdem no limit (0.05€/0.10€) - 2026/11/18 07:43:04 UTC
+Table: 'Vienna' 5-max (real money) Seat #1 is the button
+Seat 1: NapTime7 (12.93€)
+Seat 2: Mishel S (12.02€)
+Seat 3: 2AsK4AsIGN (14.04€)
+Seat 4: Shustrets (10€)
+Seat 5: randomname000035 (10€)
+*** ANTE/BLINDS ***
+Mishel S posts small blind 0.05€
+2AsK4AsIGN posts big blind 0.10€
+Dealt to randomname000035 [Qs Ks]
+*** PRE-FLOP ***
+Shustrets folds
+randomname000035 raises 0.15€ to 0.25€
+NapTime7 folds
+Mishel S folds
+2AsK4AsIGN folds
+randomname000035 collected 0.40€ from pot
+*** SUMMARY ***
+Total pot 0.40€ | No rake
+Seat 5: randomname000035 won 0.40€
+
+
+Winamax Poker - CashGame - HandId: #23207664-46-1794987808 - Holdem no limit (0.05€/0.10€) - 2026/11/18 07:43:28 UTC
+Table: 'Vienna' 5-max (real money) Seat #2 is the button
+Seat 1: NapTime7 (12.93€)
+Seat 2: Mishel S (11.97€)
+Seat 3: 2AsK4AsIGN (13.94€)
+Seat 4: Shustrets (10€)
+Seat 5: randomname000035 (10.15€)
+*** ANTE/BLINDS ***
+2AsK4AsIGN posts small blind 0.05€
+Shustrets posts big blind 0.10€
+Dealt to randomname000035 [Jc Ts]
+*** PRE-FLOP ***
+randomname000035 folds
+NapTime7 folds
+Mishel S folds
+2AsK4AsIGN raises 0.12€ to 0.22€
+Shustrets folds
+2AsK4AsIGN collected 0.32€ from pot
+*** SUMMARY ***
+Total pot 0.32€ | No rake
+Seat 3: 2AsK4AsIGN (small blind) won 0.32€
+
+
+Winamax Poker - CashGame - HandId: #23207664-47-1794987823 - Holdem no limit (0.05€/0.10€) - 2026/11/18 07:43:43 UTC
+Table: 'Vienna' 5-max (real money) Seat #3 is the button
+Seat 1: NapTime7 (12.93€)
+Seat 2: Mishel S (11.97€)
+Seat 3: 2AsK4AsIGN (14.04€)
+Seat 4: Shustrets (10€)
+Seat 5: randomname000035 (10.15€)
+*** ANTE/BLINDS ***
+Shustrets posts small blind 0.05€
+randomname000035 posts big blind 0.10€
+Dealt to randomname000035 [2c 9s]
+*** PRE-FLOP ***
+NapTime7 folds
+Mishel S raises 0.15€ to 0.25€
+2AsK4AsIGN folds
+Shustrets folds
+randomname000035 folds
+Mishel S collected 0.40€ from pot
+*** SUMMARY ***
+Total pot 0.40€ | No rake
+Seat 2: Mishel S won 0.40€
+
+
+Winamax Poker - CashGame - HandId: #23207664-48-1794987834 - Holdem no limit (0.05€/0.10€) - 2026/11/18 07:43:54 UTC
+Table: 'Vienna' 5-max (real money) Seat #4 is the button
+Seat 1: NapTime7 (12.93€)
+Seat 2: Mishel S (12.12€)
+Seat 3: 2AsK4AsIGN (14.04€)
+Seat 4: Shustrets (10€)
+Seat 5: randomname000035 (10.05€)
+*** ANTE/BLINDS ***
+randomname000035 posts small blind 0.05€
+NapTime7 posts big blind 0.10€
+Dealt to randomname000035 [8c 6h]
+*** PRE-FLOP ***
+Mishel S raises 0.15€ to 0.25€
+2AsK4AsIGN folds
+Shustrets folds
+randomname000035 folds
+NapTime7 folds
+Mishel S collected 0.40€ from pot
+*** SUMMARY ***
+Total pot 0.40€ | No rake
+Seat 2: Mishel S won 0.40€
+
+
+Winamax Poker - CashGame - HandId: #23207664-49-1794987846 - Holdem no limit (0.05€/0.10€) - 2026/11/18 07:44:06 UTC
+Table: 'Vienna' 5-max (real money) Seat #5 is the button
+Seat 1: NapTime7 (12.83€)
+Seat 2: Mishel S (12.27€)
+Seat 3: 2AsK4AsIGN (14.04€)
+Seat 4: Shustrets (10€)
+Seat 5: randomname000035 (10€)
+*** ANTE/BLINDS ***
+NapTime7 posts small blind 0.05€
+Mishel S posts big blind 0.10€
+Dealt to randomname000035 [Kh Qd]
+*** PRE-FLOP ***
+2AsK4AsIGN folds
+Shustrets raises 0.10€ to 0.20€
+randomname000035 folds
+NapTime7 folds
+Mishel S folds
+Shustrets collected 0.35€ from pot
+*** SUMMARY ***
+Total pot 0.35€ | No rake
+Seat 4: Shustrets won 0.35€
+
+
+Winamax Poker - CashGame - HandId: #23207664-50-1794987875 - Holdem no limit (0.05€/0.10€) - 2026/11/18 07:44:35 UTC
+Table: 'Vienna' 5-max (real money) Seat #1 is the button
+Seat 1: NapTime7 (12.78€)
+Seat 2: Mishel S (12.17€)
+Seat 3: 2AsK4AsIGN (14.04€)
+Seat 4: Shustrets (10.15€)
+Seat 5: randomname000035 (10€)
+*** ANTE/BLINDS ***
+Mishel S posts small blind 0.05€
+2AsK4AsIGN posts big blind 0.10€
+Dealt to randomname000035 [Td 6d]
+*** PRE-FLOP ***
+Shustrets folds
+randomname000035 folds
+NapTime7 folds
+Mishel S folds
+2AsK4AsIGN collected 0.15€ from pot
+*** SUMMARY ***
+Total pot 0.15€ | No rake
+Seat 3: 2AsK4AsIGN (big blind) won 0.15€

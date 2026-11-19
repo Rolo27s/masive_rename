@@ -1,0 +1,995 @@
+﻿GAME #9171920290 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:35:36/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€19.85 in chips)
+Seat 3: randomname000014 (€15.41 in chips)  DEALER
+Seat 5: randomname000003 (€4.70 in chips)
+Seat 6: randomname000004 (€10.00 in chips)
+Seat 8: randomname000009 (€10.30 in chips)
+Seat 10: randomname000008 (€23.33 in chips)
+randomname000003: Post SB €0.05
+randomname000004: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [S8 S3]
+randomname000009: Fold
+randomname000008: Fold
+randomname000012: Fold
+randomname000014: Raise (NF) €0.30
+randomname000003: Fold
+randomname000004: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+randomname000014: wins €0.25
+
+
+GAME #9171920351 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:36:04/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€19.85 in chips)
+Seat 3: randomname000014 (€15.56 in chips)
+Seat 5: randomname000003 (€4.65 in chips)  DEALER
+Seat 6: randomname000004 (€10.00 in chips)
+Seat 8: randomname000009 (€10.30 in chips)
+Seat 10: randomname000008 (€23.33 in chips)
+randomname000004: Post SB €0.05
+randomname000009: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [CK DK]
+randomname000008: Raise (NF) €0.30
+randomname000012: Call €0.30
+randomname000014: Fold
+randomname000003: Fold
+randomname000004: Raise (NF) €1.50
+randomname000009: Fold
+randomname000008: Fold
+randomname000012: Fold
+*** SUMMARY ***
+Total pot €1.00 Rake €0.00
+randomname000004: Mucks [CK DK]
+randomname000004: wins €1.00
+
+
+GAME #9171922440 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:36:46/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€19.55 in chips)
+Seat 3: randomname000014 (€15.56 in chips)
+Seat 5: randomname000003 (€4.65 in chips)
+Seat 6: randomname000004 (€10.70 in chips)  DEALER
+Seat 8: randomname000009 (€10.20 in chips)
+Seat 10: randomname000008 (€23.03 in chips)
+randomname000009: Post SB €0.05
+randomname000008: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [S9 C7]
+randomname000012: Fold
+randomname000014: Raise (NF) €0.22
+randomname000003: Fold
+randomname000004: Fold
+randomname000009: Fold
+randomname000008: Raise (NF) €1.44
+randomname000014: Fold
+*** SUMMARY ***
+Total pot €0.49 Rake €0.00
+randomname000008: wins €0.49
+
+
+GAME #9171922523 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:37:20/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€19.55 in chips)
+Seat 3: randomname000014 (€15.34 in chips)
+Seat 5: randomname000003 (€4.65 in chips)
+Seat 6: randomname000004 (€10.70 in chips)
+Seat 8: randomname000009 (€10.15 in chips)  DEALER
+Seat 10: randomname000008 (€23.30 in chips)
+randomname000008: Post SB €0.05
+randomname000012: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [D3 HQ]
+randomname000014: Fold
+randomname000003: Fold
+randomname000004: Fold
+randomname000009: Raise (NF) €0.30
+randomname000008: Fold
+randomname000012: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+randomname000009: wins €0.25
+
+
+GAME #9171922660 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:37:50/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€19.45 in chips)
+Seat 5: randomname000003 (€4.65 in chips)
+Seat 6: randomname000004 (€10.70 in chips)
+Seat 8: randomname000009 (€10.30 in chips)
+Seat 10: randomname000008 (€23.25 in chips)  DEALER
+randomname000012: Post SB €0.05
+randomname000003: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [CJ HA]
+randomname000004: Raise (NF) €0.25
+randomname000009: Fold
+randomname000008: Call €0.25
+randomname000012: Call €0.20
+randomname000003: Fold
+*** FLOP *** [H8 C8 H5]
+randomname000012: Check
+randomname000004: Check
+randomname000008: Check
+*** TURN *** [H9]
+randomname000012: Check
+randomname000004: Bet €0.30
+randomname000008: Fold
+randomname000012: Fold
+*** SUMMARY ***
+Total pot €0.80 Rake €0.05
+randomname000004: Mucks [CJ HA]
+randomname000004: wins €0.80
+
+
+GAME #9171922745 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:38:30/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€19.20 in chips)  DEALER
+Seat 5: randomname000003 (€4.55 in chips)
+Seat 6: randomname000004 (€11.25 in chips)
+Seat 8: randomname000009 (€10.30 in chips)
+Seat 10: randomname000008 (€23.00 in chips)
+randomname000003: Post SB €0.05
+randomname000004: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [C4 H10]
+randomname000009: Fold
+randomname000008: Raise (NF) €0.30
+randomname000012: Fold
+randomname000003: Fold
+randomname000004: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+randomname000008: wins €0.25
+
+
+GAME #9171922781 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:38:48/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€19.20 in chips)
+Seat 5: randomname000003 (€4.50 in chips)  DEALER
+Seat 6: randomname000004 (€11.15 in chips)
+Seat 8: randomname000009 (€10.30 in chips)
+Seat 10: randomname000008 (€23.15 in chips)
+randomname000004: Post SB €0.05
+randomname000009: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [H7 SJ]
+randomname000008: Fold
+randomname000012: Fold
+randomname000003: Call €0.10
+randomname000004: Fold
+randomname000009: Check
+*** FLOP *** [HK H10 S9]
+randomname000009: Check
+randomname000003: Check
+*** TURN *** [S5]
+randomname000009: Check
+randomname000003: Bet €0.25
+randomname000009: Fold
+*** SUMMARY ***
+Total pot €0.24 Rake €0.01
+randomname000003: wins €0.24
+
+
+GAME #9171922877 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:39:30/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€19.20 in chips)
+Seat 5: randomname000003 (€4.64 in chips)
+Seat 6: randomname000004 (€11.10 in chips)  DEALER
+Seat 8: randomname000009 (€10.20 in chips)
+Seat 10: randomname000008 (€23.15 in chips)
+randomname000009: Post SB €0.05
+randomname000008: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [H9 CA]
+randomname000012: Fold
+randomname000003: Fold
+randomname000004: Raise (NF) €0.25
+randomname000009: Fold
+randomname000008: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+randomname000004: Mucks [H9 CA]
+randomname000004: wins €0.25
+
+
+GAME #9171925361 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:39:49/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€19.20 in chips)
+Seat 5: randomname000003 (€4.64 in chips)
+Seat 6: randomname000004 (€11.25 in chips)
+Seat 8: randomname000009 (€10.15 in chips)  DEALER
+Seat 10: randomname000008 (€23.05 in chips)
+randomname000008: Post SB €0.05
+randomname000012: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [S6 DA]
+randomname000003: Fold
+randomname000004: Fold
+randomname000009: Raise (NF) €0.30
+randomname000008: Fold
+randomname000012: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+randomname000009: wins €0.25
+
+
+GAME #9171925406 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:40:11/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€19.10 in chips)
+Seat 3: randomname000010 (€10.00 in chips)
+Seat 5: randomname000003 (€4.64 in chips)
+Seat 6: randomname000004 (€11.25 in chips)
+Seat 8: randomname000009 (€10.30 in chips)
+Seat 10: randomname000008 (€23.00 in chips)  DEALER
+randomname000012: Post SB €0.05
+randomname000010: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [H10 C3]
+randomname000003: Fold
+randomname000004: Fold
+randomname000009: Fold
+randomname000008: Fold
+randomname000012: Fold
+*** SUMMARY ***
+Total pot €0.10 Rake €0.00
+randomname000010: wins €0.10
+
+
+GAME #9171926333 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:40:28/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€19.05 in chips)  DEALER
+Seat 3: randomname000010 (€10.05 in chips)
+Seat 5: randomname000003 (€4.64 in chips)
+Seat 6: randomname000004 (€11.25 in chips)
+Seat 8: randomname000009 (€10.30 in chips)
+Seat 10: randomname000008 (€23.00 in chips)
+randomname000010: Post SB €0.05
+randomname000003: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [SA HA]
+randomname000004: Raise (NF) €0.25
+randomname000009: Fold
+randomname000008: Fold
+randomname000012: Call €0.25
+randomname000010: Fold
+randomname000003: Call €0.15
+*** FLOP *** [H3 D10 CK]
+randomname000003: Check
+randomname000004: Bet €0.30
+randomname000012: Fold
+randomname000003: Call €0.30
+*** TURN *** [C2]
+randomname000003: Bet €0.10
+randomname000004: Raise (NF) €1.00
+randomname000003: Call €0.90
+*** RIVER *** [S7]
+randomname000003: Check
+randomname000004: Bet €2.80
+randomname000003: Fold
+*** SUMMARY ***
+Total pot €3.18 Rake €0.22
+randomname000004: Mucks [SA HA] One Pair, Aces
+randomname000004: wins €3.18
+
+
+GAME #9171930163 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:41:33/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€18.80 in chips)
+Seat 3: randomname000010 (€10.00 in chips)  DEALER
+Seat 5: randomname000003 (€3.09 in chips)
+Seat 6: randomname000004 (€12.88 in chips)
+Seat 8: randomname000009 (€10.30 in chips)
+Seat 10: randomname000008 (€23.00 in chips)
+randomname000003: Post SB €0.05
+randomname000004: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [H10 CJ]
+randomname000009: Raise (NF) €0.30
+randomname000008: Fold
+randomname000012: Fold
+randomname000010: Fold
+randomname000003: Fold
+randomname000004: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+randomname000009: wins €0.25
+
+
+GAME #9171930211 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:41:52/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€18.80 in chips)
+Seat 3: randomname000010 (€10.00 in chips)
+Seat 5: randomname000003 (€3.04 in chips)  DEALER
+Seat 6: randomname000004 (€12.78 in chips)
+Seat 8: randomname000009 (€10.45 in chips)
+Seat 10: randomname000008 (€23.00 in chips)
+randomname000004: Post SB €0.05
+randomname000009: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [S6 D8]
+randomname000008: Fold
+randomname000012: Fold
+randomname000010: Raise (NF) €0.28
+randomname000003: Fold
+randomname000004: Fold
+randomname000009: Call €0.18
+*** FLOP *** [C9 D5 H2]
+randomname000009: Check
+randomname000010: Bet €0.40
+randomname000009: Fold
+*** SUMMARY ***
+Total pot €0.57 Rake €0.04
+randomname000010: wins €0.57
+
+
+GAME #9171931280 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:42:40/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€18.80 in chips)
+Seat 3: randomname000010 (€10.29 in chips)
+Seat 5: randomname000003 (€3.04 in chips)
+Seat 6: randomname000004 (€12.73 in chips)  DEALER
+Seat 8: randomname000009 (€10.17 in chips)
+Seat 10: randomname000008 (€23.00 in chips)
+randomname000009: Post SB €0.05
+randomname000008: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [DJ S2]
+randomname000012: Fold
+randomname000010: Fold
+randomname000003: Raise (NF) €3.04
+randomname000004: Fold
+randomname000009: Fold
+randomname000008: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+randomname000003: wins €0.25
+
+
+GAME #9171933381 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:43:02/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€18.80 in chips)
+Seat 3: randomname000010 (€10.29 in chips)
+Seat 5: randomname000003 (€3.19 in chips)
+Seat 6: randomname000004 (€12.73 in chips)
+Seat 8: randomname000009 (€10.12 in chips)  DEALER
+Seat 10: randomname000008 (€22.90 in chips)
+randomname000008: Post SB €0.05
+randomname000012: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [CA C10]
+randomname000010: Fold
+randomname000003: Fold
+randomname000004: Raise (NF) €0.25
+randomname000009: Fold
+randomname000008: Fold
+randomname000012: Raise (NF) €0.80
+randomname000004: Call €0.55
+*** FLOP *** [S6 C5 CQ]
+randomname000012: Bet €0.82
+randomname000004: Call €0.82
+*** TURN *** [D3]
+randomname000012: Bet €1.64
+randomname000004: Fold
+*** SUMMARY ***
+Total pot €3.08 Rake €0.21
+randomname000012: wins €3.08
+
+
+GAME #9171933532 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:44:20/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€20.26 in chips)
+Seat 5: randomname000003 (€3.19 in chips)
+Seat 6: randomname000004 (€11.11 in chips)
+Seat 8: randomname000009 (€10.12 in chips)
+Seat 10: randomname000008 (€22.85 in chips)  DEALER
+randomname000012: Post SB €0.05
+randomname000003: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [D4 H10]
+randomname000004: Fold
+randomname000009: Raise (NF) €0.30
+randomname000008: Call €0.30
+randomname000012: Fold
+randomname000003: Fold
+*** FLOP *** [D7 S10 C5]
+randomname000009: Bet €0.24
+randomname000008: Call €0.24
+*** TURN *** [DJ]
+randomname000009: Check
+randomname000008: Bet €1.30
+randomname000009: Fold
+*** SUMMARY ***
+Total pot €1.15 Rake €0.08
+randomname000008: wins €1.15
+
+
+GAME #9171934435 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:45:07/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€20.21 in chips)  DEALER
+Seat 5: randomname000003 (€3.09 in chips)
+Seat 6: randomname000004 (€11.11 in chips)
+Seat 8: randomname000009 (€10.00 in chips)
+Seat 10: randomname000008 (€23.46 in chips)
+randomname000003: Post SB €0.05
+randomname000004: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [C9 HA]
+randomname000009: Fold
+randomname000008: Fold
+randomname000012: Raise (NF) €0.25
+randomname000003: Fold
+randomname000004: Raise (NF) €1.10
+randomname000012: Fold
+*** SUMMARY ***
+Total pot €0.55 Rake €0.00
+randomname000004: Mucks [C9 HA]
+randomname000004: wins €0.55
+
+
+GAME #9171934535 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:45:32/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€19.96 in chips)
+Seat 5: randomname000003 (€3.04 in chips)  DEALER
+Seat 6: randomname000004 (€11.41 in chips)
+Seat 8: randomname000009 (€10.00 in chips)
+Seat 10: randomname000008 (€23.46 in chips)
+randomname000004: Post SB €0.05
+randomname000009: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [C4 HA]
+randomname000008: Fold
+randomname000012: Fold
+randomname000003: Call €0.10
+randomname000004: Fold
+randomname000009: Check
+*** FLOP *** [CK S4 S8]
+randomname000009: Check
+randomname000003: Check
+*** TURN *** [H8]
+randomname000009: Bet €0.10
+randomname000003: Fold
+*** SUMMARY ***
+Total pot €0.24 Rake €0.01
+randomname000009: wins €0.24
+
+
+GAME #9171934605 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:46:04/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€19.96 in chips)
+Seat 5: randomname000003 (€2.94 in chips)
+Seat 6: randomname000004 (€11.36 in chips)  DEALER
+Seat 8: randomname000009 (€10.14 in chips)
+Seat 10: randomname000008 (€23.46 in chips)
+randomname000009: Post SB €0.05
+randomname000008: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [SJ H9]
+randomname000012: Fold
+randomname000003: Fold
+randomname000004: Raise (NF) €0.25
+randomname000009: Fold
+randomname000008: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+randomname000004: Mucks [SJ H9]
+randomname000004: wins €0.25
+
+
+GAME #9171934641 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:46:19/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€19.96 in chips)
+Seat 5: randomname000003 (€2.94 in chips)
+Seat 6: randomname000004 (€11.51 in chips)
+Seat 8: randomname000009 (€10.09 in chips)  DEALER
+Seat 10: randomname000008 (€23.36 in chips)
+randomname000008: Post SB €0.05
+randomname000012: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [D8 DK]
+randomname000003: Fold
+randomname000004: Raise (NF) €0.25
+randomname000009: Call €0.25
+randomname000008: Call €0.20
+randomname000012: Fold
+*** FLOP *** [HK D9 S9]
+randomname000008: Check
+randomname000004: Check
+randomname000009: Bet €0.28
+randomname000008: Fold
+randomname000004: Call €0.28
+*** TURN *** [H7]
+randomname000004: Check
+randomname000009: Check
+*** RIVER *** [H9]
+randomname000004: Bet €0.40
+randomname000009: Call €0.40
+*** SUMMARY ***
+Total pot €2.07 Rake €0.14
+randomname000004: Shows [D8 DK] Full House, Nines full of Kings
+randomname000009: Shows [CJ HJ] Full House, Nines full of Jacks
+randomname000004: wins €2.07
+
+
+GAME #9171934794 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:47:35/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€19.86 in chips)
+Seat 3: randomname000013 (€10.00 in chips)
+Seat 5: randomname000003 (€2.94 in chips)
+Seat 6: randomname000004 (€12.65 in chips)
+Seat 8: randomname000009 (€10.00 in chips)
+Seat 10: randomname000008 (€23.11 in chips)  DEALER
+randomname000012: Post SB €0.05
+randomname000013: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [H5 H3]
+randomname000003: Fold
+randomname000004: Fold
+randomname000009: Fold
+randomname000008: Fold
+randomname000012: Fold
+*** SUMMARY ***
+Total pot €0.10 Rake €0.00
+randomname000013: wins €0.10
+
+
+GAME #9171935936 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:47:48/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€19.81 in chips)  DEALER
+Seat 3: randomname000013 (€10.05 in chips)
+Seat 5: randomname000003 (€2.94 in chips)
+Seat 6: randomname000004 (€12.65 in chips)
+Seat 8: randomname000009 (€10.00 in chips)
+Seat 10: randomname000008 (€23.11 in chips)
+randomname000013: Post SB €0.05
+randomname000003: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [D3 H2]
+randomname000004: Fold
+randomname000009: Fold
+randomname000008: Fold
+randomname000012: Fold
+randomname000013: Raise (NF) €0.30
+randomname000003: Fold
+*** SUMMARY ***
+Total pot €0.20 Rake €0.00
+randomname000013: wins €0.20
+
+
+GAME #9171937609 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:48:14/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€19.81 in chips)
+Seat 3: randomname000013 (€10.15 in chips)  DEALER
+Seat 5: randomname000003 (€2.84 in chips)
+Seat 6: randomname000004 (€12.65 in chips)
+Seat 8: randomname000009 (€10.00 in chips)
+Seat 10: randomname000008 (€23.11 in chips)
+randomname000003: Post SB €0.05
+randomname000004: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [S3 H8]
+randomname000009: Raise (NF) €0.30
+randomname000008: Fold
+randomname000012: Fold
+randomname000013: Fold
+randomname000003: Fold
+randomname000004: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+randomname000009: wins €0.25
+
+
+GAME #9171937664 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:48:39/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€19.81 in chips)
+Seat 3: randomname000013 (€10.15 in chips)
+Seat 5: randomname000003 (€2.79 in chips)  DEALER
+Seat 6: randomname000004 (€12.55 in chips)
+Seat 8: randomname000009 (€10.15 in chips)
+Seat 10: randomname000008 (€23.11 in chips)
+randomname000004: Post SB €0.05
+randomname000009: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [H7 SK]
+randomname000008: Fold
+randomname000012: Raise (NF) €0.25
+randomname000013: Fold
+randomname000003: Fold
+randomname000004: Fold
+randomname000009: Call €0.15
+*** FLOP *** [S2 S6 SA]
+randomname000009: Check
+randomname000012: Check
+*** TURN *** [D8]
+randomname000009: Check
+randomname000012: Check
+*** RIVER *** [D4]
+randomname000009: Check
+randomname000012: Check
+*** SUMMARY ***
+Total pot €0.52 Rake €0.03
+randomname000012: Shows [H6 H9] One Pair, Sixes
+randomname000009: Shows [HJ HQ] High Card, Ace
+randomname000012: wins €0.52
+
+
+GAME #9171942586 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:49:24/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€20.08 in chips)
+Seat 3: randomname000013 (€10.15 in chips)
+Seat 5: randomname000003 (€2.79 in chips)
+Seat 6: randomname000004 (€12.50 in chips)  DEALER
+Seat 8: randomname000009 (€10.00 in chips)
+Seat 10: randomname000008 (€23.11 in chips)
+randomname000009: Post SB €0.05
+randomname000008: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [D10 H5]
+randomname000012: Fold
+randomname000013: Fold
+randomname000003: Fold
+randomname000004: Fold
+randomname000009: Raise (NF) €0.30
+randomname000008: Call €0.20
+*** FLOP *** [C9 SA H7]
+randomname000009: Bet €0.29
+randomname000008: Raise (NF) €0.78
+randomname000009: Raise (NF) €2.07
+randomname000008: Fold
+*** SUMMARY ***
+Total pot €2.02 Rake €0.14
+randomname000009: wins €2.02
+
+
+GAME #9171943562 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:50:26/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€20.08 in chips)
+Seat 3: randomname000013 (€10.15 in chips)
+Seat 5: randomname000003 (€2.79 in chips)
+Seat 6: randomname000004 (€12.50 in chips)
+Seat 8: randomname000009 (€10.94 in chips)  DEALER
+Seat 10: randomname000008 (€22.03 in chips)
+randomname000008: Post SB €0.05
+randomname000012: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [SK H9]
+randomname000013: Fold
+randomname000003: Fold
+randomname000004: Fold
+randomname000009: Raise (NF) €0.30
+randomname000008: Fold
+randomname000012: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+randomname000009: wins €0.25
+
+
+GAME #9171943602 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:50:46/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€19.98 in chips)
+Seat 3: randomname000013 (€10.15 in chips)
+Seat 5: randomname000003 (€2.79 in chips)
+Seat 6: randomname000004 (€12.50 in chips)
+Seat 8: randomname000009 (€11.09 in chips)
+Seat 10: randomname000008 (€21.98 in chips)  DEALER
+randomname000012: Post SB €0.05
+randomname000013: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [H7 D3]
+randomname000003: Fold
+randomname000004: Fold
+randomname000009: Fold
+randomname000008: Fold
+randomname000012: Fold
+*** SUMMARY ***
+Total pot €0.10 Rake €0.00
+randomname000013: wins €0.10
+
+
+GAME #9171943633 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:51:02/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€19.93 in chips)  DEALER
+Seat 3: randomname000013 (€10.20 in chips)
+Seat 5: randomname000003 (€2.79 in chips)
+Seat 6: randomname000004 (€12.50 in chips)
+Seat 8: randomname000009 (€11.09 in chips)
+Seat 10: randomname000008 (€21.98 in chips)
+randomname000013: Post SB €0.05
+randomname000003: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [H10 D4]
+randomname000004: Fold
+randomname000009: Fold
+randomname000008: Fold
+randomname000012: Raise (NF) €0.25
+randomname000013: Fold
+randomname000003: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+randomname000012: wins €0.25
+
+
+GAME #9171943687 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:51:28/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000012 (€20.08 in chips)
+Seat 3: randomname000013 (€10.15 in chips)  DEALER
+Seat 5: randomname000003 (€2.69 in chips)
+Seat 6: randomname000004 (€12.50 in chips)
+Seat 8: randomname000009 (€11.09 in chips)
+Seat 10: randomname000008 (€21.98 in chips)
+randomname000003: Post SB €0.05
+randomname000004: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [D3 C2]
+randomname000009: Fold
+randomname000008: Fold
+randomname000012: Raise (NF) €0.25
+randomname000013: Fold
+randomname000003: Fold
+randomname000004: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+randomname000012: wins €0.25
+
+
+GAME #9171944182 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:52:10/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 3: randomname000013 (€10.15 in chips)
+Seat 5: randomname000003 (€2.64 in chips)  DEALER
+Seat 6: randomname000004 (€12.40 in chips)
+Seat 8: randomname000009 (€11.09 in chips)
+Seat 10: randomname000008 (€21.98 in chips)
+Seat 1: randomname000012 (€20.23 in chips)
+randomname000004: Post SB €0.05
+randomname000009: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [D3 C5]
+randomname000008: Fold
+randomname000012: Fold
+randomname000013: Raise (NF) €0.25
+randomname000003: Raise (NF) €2.64
+randomname000004: Fold
+randomname000009: Fold
+randomname000013: Fold
+*** SUMMARY ***
+Total pot €0.65 Rake €0.00
+randomname000003: wins €0.65
+
+
+GAME #9171945179 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:52:32/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 3: randomname000013 (€10.00 in chips)
+Seat 5: randomname000003 (€3.04 in chips)
+Seat 6: randomname000004 (€12.35 in chips)  DEALER
+Seat 8: randomname000009 (€10.99 in chips)
+Seat 10: randomname000008 (€21.98 in chips)
+randomname000009: Post SB €0.05
+randomname000008: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [D5 DJ]
+randomname000013: Raise (NF) €0.25
+randomname000003: Fold
+randomname000004: Fold
+randomname000009: Fold
+randomname000008: Call €0.15
+*** FLOP *** [D3 S5 C8]
+randomname000008: Check
+randomname000013: Check
+*** TURN *** [S9]
+randomname000008: Bet €0.40
+randomname000013: Fold
+*** SUMMARY ***
+Total pot €0.52 Rake €0.03
+randomname000008: wins €0.52
+
+
+GAME #9171945324 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:53:36/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000002 (€10.00 in chips)
+Seat 3: randomname000013 (€10.00 in chips)
+Seat 5: randomname000003 (€3.04 in chips)
+Seat 6: randomname000004 (€12.35 in chips)
+Seat 8: randomname000009 (€10.94 in chips)  DEALER
+Seat 10: randomname000008 (€22.25 in chips)
+randomname000008: Post SB €0.05
+randomname000002: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [S8 H4]
+randomname000013: Fold
+randomname000003: Fold
+randomname000004: Fold
+randomname000009: Raise (NF) €0.30
+randomname000008: Call €0.25
+randomname000002: Fold
+*** FLOP *** [HJ S2 D9]
+randomname000008: Check
+randomname000009: Bet €0.23
+randomname000008: Call €0.23
+*** TURN *** [C9]
+randomname000008: Check
+randomname000009: Check
+*** RIVER *** [DA]
+randomname000008: Check
+randomname000009: Check
+*** SUMMARY ***
+Total pot €1.09 Rake €0.07
+randomname000009: Shows [S10 H10] Two Pair, Tens and Nines
+randomname000008: Shows [SQ HK] One Pair, Nines
+randomname000009: wins €1.09
+
+
+GAME #9171947942 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:54:16/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000002 (€10.00 in chips)
+Seat 3: randomname000013 (€10.00 in chips)
+Seat 5: randomname000003 (€3.04 in chips)
+Seat 6: randomname000004 (€12.35 in chips)
+Seat 8: randomname000009 (€11.50 in chips)
+Seat 10: randomname000008 (€21.72 in chips)  DEALER
+randomname000002: Post SB €0.05
+randomname000013: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [H8 H5]
+randomname000003: Fold
+randomname000004: Fold
+randomname000009: Raise (NF) €0.30
+randomname000008: Fold
+randomname000002: Fold
+randomname000013: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+randomname000009: wins €0.25
+
+
+GAME #9171947985 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:54:33/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000002 (€10.00 in chips)  DEALER
+Seat 3: randomname000013 (€10.00 in chips)
+Seat 5: randomname000003 (€3.04 in chips)
+Seat 6: randomname000004 (€12.35 in chips)
+Seat 8: randomname000009 (€11.65 in chips)
+Seat 10: randomname000008 (€21.72 in chips)
+randomname000013: Post SB €0.05
+randomname000003: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [C9 S10]
+randomname000004: Fold
+randomname000009: Fold
+randomname000008: Fold
+randomname000002: Fold
+randomname000013: Raise (NF) €0.30
+randomname000003: Fold
+*** SUMMARY ***
+Total pot €0.20 Rake €0.00
+randomname000013: wins €0.20
+
+
+GAME #9171948026 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:54:55/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000002 (€10.00 in chips)
+Seat 3: randomname000013 (€10.10 in chips)  DEALER
+Seat 5: randomname000003 (€2.94 in chips)
+Seat 6: randomname000004 (€12.35 in chips)
+Seat 8: randomname000009 (€11.65 in chips)
+Seat 10: randomname000008 (€21.72 in chips)
+randomname000003: Post SB €0.05
+randomname000004: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [S2 SJ]
+randomname000009: Fold
+randomname000008: Fold
+randomname000002: Fold
+randomname000013: Fold
+randomname000003: Fold
+*** SUMMARY ***
+Total pot €0.10 Rake €0.00
+randomname000004: Mucks [S2 SJ]
+randomname000004: wins €0.10
+
+
+GAME #9171950950 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:55:31/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000002 (€10.00 in chips)
+Seat 3: randomname000013 (€10.10 in chips)
+Seat 5: randomname000003 (€2.89 in chips)  DEALER
+Seat 6: randomname000004 (€12.40 in chips)
+Seat 8: randomname000009 (€11.65 in chips)
+Seat 10: randomname000008 (€21.72 in chips)
+randomname000004: Post SB €0.05
+randomname000009: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [C5 S10]
+randomname000008: Fold
+randomname000002: Fold
+randomname000013: Fold
+randomname000003: Raise (NF) €2.89
+randomname000004: Fold
+randomname000009: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+randomname000003: wins €0.25
+
+
+GAME #9171953018 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:56:09/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000002 (€10.00 in chips)
+Seat 3: randomname000013 (€10.10 in chips)
+Seat 5: randomname000003 (€3.04 in chips)
+Seat 6: randomname000004 (€12.35 in chips)  DEALER
+Seat 8: randomname000009 (€11.55 in chips)
+Seat 10: randomname000008 (€21.72 in chips)
+randomname000009: Post SB €0.05
+randomname000008: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [H9 H4]
+randomname000002: Fold
+randomname000013: Fold
+randomname000003: Fold
+randomname000004: Fold
+randomname000009: Fold
+*** SUMMARY ***
+Total pot €0.10 Rake €0.00
+randomname000008: wins €0.10
+
+
+GAME #9171953059 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:56:28/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: randomname000002 (€10.00 in chips)
+Seat 3: randomname000013 (€10.10 in chips)
+Seat 5: randomname000003 (€3.04 in chips)
+Seat 6: randomname000004 (€12.35 in chips)
+Seat 8: randomname000009 (€11.50 in chips)  DEALER
+Seat 10: randomname000008 (€21.77 in chips)
+randomname000008: Post SB €0.05
+randomname000002: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to randomname000004 [H8 C4]
+randomname000013: Fold
+randomname000003: Fold
+randomname000004: Fold
+randomname000009: Fold
+randomname000008: Fold
+*** SUMMARY ***
+Total pot €0.10 Rake €0.00
+randomname000002: wins €0.10

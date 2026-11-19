@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "masive-rename"
+version = "0.1.0"
+description = "Local Spark session setup with Delta Lake support"
+requires-python = ">=3.9"
+dependencies = [
+  "pyspark>=3.5.0,<4.0.0",
+  "delta-spark>=3.2.0,<4.0.0",
+]
+
+[tool.setuptools]
+py-modules = []

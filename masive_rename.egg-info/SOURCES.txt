@@ -1,0 +1,6 @@
+pyproject.toml
+masive_rename.egg-info/PKG-INFO
+masive_rename.egg-info/SOURCES.txt
+masive_rename.egg-info/dependency_links.txt
+masive_rename.egg-info/requires.txt
+masive_rename.egg-info/top_level.txt

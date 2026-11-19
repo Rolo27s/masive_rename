@@ -1,0 +1,995 @@
+﻿GAME #9171920290 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:35:36/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€19.85 in chips)
+Seat 3: mediomelon (€15.41 in chips)  DEALER
+Seat 5: Chrismas6967 (€4.70 in chips)
+Seat 6: Dwayne27 (€10.00 in chips)
+Seat 8: SoyJackReacher (€10.30 in chips)
+Seat 10: Payetpas (€23.33 in chips)
+Chrismas6967: Post SB €0.05
+Dwayne27: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [S8 S3]
+SoyJackReacher: Fold
+Payetpas: Fold
+frLameche001: Fold
+mediomelon: Raise (NF) €0.30
+Chrismas6967: Fold
+Dwayne27: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+mediomelon: wins €0.25
+
+
+GAME #9171920351 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:36:04/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€19.85 in chips)
+Seat 3: mediomelon (€15.56 in chips)
+Seat 5: Chrismas6967 (€4.65 in chips)  DEALER
+Seat 6: Dwayne27 (€10.00 in chips)
+Seat 8: SoyJackReacher (€10.30 in chips)
+Seat 10: Payetpas (€23.33 in chips)
+Dwayne27: Post SB €0.05
+SoyJackReacher: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [CK DK]
+Payetpas: Raise (NF) €0.30
+frLameche001: Call €0.30
+mediomelon: Fold
+Chrismas6967: Fold
+Dwayne27: Raise (NF) €1.50
+SoyJackReacher: Fold
+Payetpas: Fold
+frLameche001: Fold
+*** SUMMARY ***
+Total pot €1.00 Rake €0.00
+Dwayne27: Mucks [CK DK]
+Dwayne27: wins €1.00
+
+
+GAME #9171922440 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:36:46/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€19.55 in chips)
+Seat 3: mediomelon (€15.56 in chips)
+Seat 5: Chrismas6967 (€4.65 in chips)
+Seat 6: Dwayne27 (€10.70 in chips)  DEALER
+Seat 8: SoyJackReacher (€10.20 in chips)
+Seat 10: Payetpas (€23.03 in chips)
+SoyJackReacher: Post SB €0.05
+Payetpas: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [S9 C7]
+frLameche001: Fold
+mediomelon: Raise (NF) €0.22
+Chrismas6967: Fold
+Dwayne27: Fold
+SoyJackReacher: Fold
+Payetpas: Raise (NF) €1.44
+mediomelon: Fold
+*** SUMMARY ***
+Total pot €0.49 Rake €0.00
+Payetpas: wins €0.49
+
+
+GAME #9171922523 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:37:20/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€19.55 in chips)
+Seat 3: mediomelon (€15.34 in chips)
+Seat 5: Chrismas6967 (€4.65 in chips)
+Seat 6: Dwayne27 (€10.70 in chips)
+Seat 8: SoyJackReacher (€10.15 in chips)  DEALER
+Seat 10: Payetpas (€23.30 in chips)
+Payetpas: Post SB €0.05
+frLameche001: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [D3 HQ]
+mediomelon: Fold
+Chrismas6967: Fold
+Dwayne27: Fold
+SoyJackReacher: Raise (NF) €0.30
+Payetpas: Fold
+frLameche001: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+SoyJackReacher: wins €0.25
+
+
+GAME #9171922660 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:37:50/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€19.45 in chips)
+Seat 5: Chrismas6967 (€4.65 in chips)
+Seat 6: Dwayne27 (€10.70 in chips)
+Seat 8: SoyJackReacher (€10.30 in chips)
+Seat 10: Payetpas (€23.25 in chips)  DEALER
+frLameche001: Post SB €0.05
+Chrismas6967: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [CJ HA]
+Dwayne27: Raise (NF) €0.25
+SoyJackReacher: Fold
+Payetpas: Call €0.25
+frLameche001: Call €0.20
+Chrismas6967: Fold
+*** FLOP *** [H8 C8 H5]
+frLameche001: Check
+Dwayne27: Check
+Payetpas: Check
+*** TURN *** [H9]
+frLameche001: Check
+Dwayne27: Bet €0.30
+Payetpas: Fold
+frLameche001: Fold
+*** SUMMARY ***
+Total pot €0.80 Rake €0.05
+Dwayne27: Mucks [CJ HA]
+Dwayne27: wins €0.80
+
+
+GAME #9171922745 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:38:30/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€19.20 in chips)  DEALER
+Seat 5: Chrismas6967 (€4.55 in chips)
+Seat 6: Dwayne27 (€11.25 in chips)
+Seat 8: SoyJackReacher (€10.30 in chips)
+Seat 10: Payetpas (€23.00 in chips)
+Chrismas6967: Post SB €0.05
+Dwayne27: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [C4 H10]
+SoyJackReacher: Fold
+Payetpas: Raise (NF) €0.30
+frLameche001: Fold
+Chrismas6967: Fold
+Dwayne27: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+Payetpas: wins €0.25
+
+
+GAME #9171922781 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:38:48/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€19.20 in chips)
+Seat 5: Chrismas6967 (€4.50 in chips)  DEALER
+Seat 6: Dwayne27 (€11.15 in chips)
+Seat 8: SoyJackReacher (€10.30 in chips)
+Seat 10: Payetpas (€23.15 in chips)
+Dwayne27: Post SB €0.05
+SoyJackReacher: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [H7 SJ]
+Payetpas: Fold
+frLameche001: Fold
+Chrismas6967: Call €0.10
+Dwayne27: Fold
+SoyJackReacher: Check
+*** FLOP *** [HK H10 S9]
+SoyJackReacher: Check
+Chrismas6967: Check
+*** TURN *** [S5]
+SoyJackReacher: Check
+Chrismas6967: Bet €0.25
+SoyJackReacher: Fold
+*** SUMMARY ***
+Total pot €0.24 Rake €0.01
+Chrismas6967: wins €0.24
+
+
+GAME #9171922877 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:39:30/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€19.20 in chips)
+Seat 5: Chrismas6967 (€4.64 in chips)
+Seat 6: Dwayne27 (€11.10 in chips)  DEALER
+Seat 8: SoyJackReacher (€10.20 in chips)
+Seat 10: Payetpas (€23.15 in chips)
+SoyJackReacher: Post SB €0.05
+Payetpas: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [H9 CA]
+frLameche001: Fold
+Chrismas6967: Fold
+Dwayne27: Raise (NF) €0.25
+SoyJackReacher: Fold
+Payetpas: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+Dwayne27: Mucks [H9 CA]
+Dwayne27: wins €0.25
+
+
+GAME #9171925361 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:39:49/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€19.20 in chips)
+Seat 5: Chrismas6967 (€4.64 in chips)
+Seat 6: Dwayne27 (€11.25 in chips)
+Seat 8: SoyJackReacher (€10.15 in chips)  DEALER
+Seat 10: Payetpas (€23.05 in chips)
+Payetpas: Post SB €0.05
+frLameche001: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [S6 DA]
+Chrismas6967: Fold
+Dwayne27: Fold
+SoyJackReacher: Raise (NF) €0.30
+Payetpas: Fold
+frLameche001: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+SoyJackReacher: wins €0.25
+
+
+GAME #9171925406 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:40:11/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€19.10 in chips)
+Seat 3: awareness (€10.00 in chips)
+Seat 5: Chrismas6967 (€4.64 in chips)
+Seat 6: Dwayne27 (€11.25 in chips)
+Seat 8: SoyJackReacher (€10.30 in chips)
+Seat 10: Payetpas (€23.00 in chips)  DEALER
+frLameche001: Post SB €0.05
+awareness: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [H10 C3]
+Chrismas6967: Fold
+Dwayne27: Fold
+SoyJackReacher: Fold
+Payetpas: Fold
+frLameche001: Fold
+*** SUMMARY ***
+Total pot €0.10 Rake €0.00
+awareness: wins €0.10
+
+
+GAME #9171926333 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:40:28/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€19.05 in chips)  DEALER
+Seat 3: awareness (€10.05 in chips)
+Seat 5: Chrismas6967 (€4.64 in chips)
+Seat 6: Dwayne27 (€11.25 in chips)
+Seat 8: SoyJackReacher (€10.30 in chips)
+Seat 10: Payetpas (€23.00 in chips)
+awareness: Post SB €0.05
+Chrismas6967: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [SA HA]
+Dwayne27: Raise (NF) €0.25
+SoyJackReacher: Fold
+Payetpas: Fold
+frLameche001: Call €0.25
+awareness: Fold
+Chrismas6967: Call €0.15
+*** FLOP *** [H3 D10 CK]
+Chrismas6967: Check
+Dwayne27: Bet €0.30
+frLameche001: Fold
+Chrismas6967: Call €0.30
+*** TURN *** [C2]
+Chrismas6967: Bet €0.10
+Dwayne27: Raise (NF) €1.00
+Chrismas6967: Call €0.90
+*** RIVER *** [S7]
+Chrismas6967: Check
+Dwayne27: Bet €2.80
+Chrismas6967: Fold
+*** SUMMARY ***
+Total pot €3.18 Rake €0.22
+Dwayne27: Mucks [SA HA] One Pair, Aces
+Dwayne27: wins €3.18
+
+
+GAME #9171930163 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:41:33/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€18.80 in chips)
+Seat 3: awareness (€10.00 in chips)  DEALER
+Seat 5: Chrismas6967 (€3.09 in chips)
+Seat 6: Dwayne27 (€12.88 in chips)
+Seat 8: SoyJackReacher (€10.30 in chips)
+Seat 10: Payetpas (€23.00 in chips)
+Chrismas6967: Post SB €0.05
+Dwayne27: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [H10 CJ]
+SoyJackReacher: Raise (NF) €0.30
+Payetpas: Fold
+frLameche001: Fold
+awareness: Fold
+Chrismas6967: Fold
+Dwayne27: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+SoyJackReacher: wins €0.25
+
+
+GAME #9171930211 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:41:52/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€18.80 in chips)
+Seat 3: awareness (€10.00 in chips)
+Seat 5: Chrismas6967 (€3.04 in chips)  DEALER
+Seat 6: Dwayne27 (€12.78 in chips)
+Seat 8: SoyJackReacher (€10.45 in chips)
+Seat 10: Payetpas (€23.00 in chips)
+Dwayne27: Post SB €0.05
+SoyJackReacher: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [S6 D8]
+Payetpas: Fold
+frLameche001: Fold
+awareness: Raise (NF) €0.28
+Chrismas6967: Fold
+Dwayne27: Fold
+SoyJackReacher: Call €0.18
+*** FLOP *** [C9 D5 H2]
+SoyJackReacher: Check
+awareness: Bet €0.40
+SoyJackReacher: Fold
+*** SUMMARY ***
+Total pot €0.57 Rake €0.04
+awareness: wins €0.57
+
+
+GAME #9171931280 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:42:40/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€18.80 in chips)
+Seat 3: awareness (€10.29 in chips)
+Seat 5: Chrismas6967 (€3.04 in chips)
+Seat 6: Dwayne27 (€12.73 in chips)  DEALER
+Seat 8: SoyJackReacher (€10.17 in chips)
+Seat 10: Payetpas (€23.00 in chips)
+SoyJackReacher: Post SB €0.05
+Payetpas: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [DJ S2]
+frLameche001: Fold
+awareness: Fold
+Chrismas6967: Raise (NF) €3.04
+Dwayne27: Fold
+SoyJackReacher: Fold
+Payetpas: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+Chrismas6967: wins €0.25
+
+
+GAME #9171933381 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:43:02/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€18.80 in chips)
+Seat 3: awareness (€10.29 in chips)
+Seat 5: Chrismas6967 (€3.19 in chips)
+Seat 6: Dwayne27 (€12.73 in chips)
+Seat 8: SoyJackReacher (€10.12 in chips)  DEALER
+Seat 10: Payetpas (€22.90 in chips)
+Payetpas: Post SB €0.05
+frLameche001: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [CA C10]
+awareness: Fold
+Chrismas6967: Fold
+Dwayne27: Raise (NF) €0.25
+SoyJackReacher: Fold
+Payetpas: Fold
+frLameche001: Raise (NF) €0.80
+Dwayne27: Call €0.55
+*** FLOP *** [S6 C5 CQ]
+frLameche001: Bet €0.82
+Dwayne27: Call €0.82
+*** TURN *** [D3]
+frLameche001: Bet €1.64
+Dwayne27: Fold
+*** SUMMARY ***
+Total pot €3.08 Rake €0.21
+frLameche001: wins €3.08
+
+
+GAME #9171933532 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:44:20/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€20.26 in chips)
+Seat 5: Chrismas6967 (€3.19 in chips)
+Seat 6: Dwayne27 (€11.11 in chips)
+Seat 8: SoyJackReacher (€10.12 in chips)
+Seat 10: Payetpas (€22.85 in chips)  DEALER
+frLameche001: Post SB €0.05
+Chrismas6967: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [D4 H10]
+Dwayne27: Fold
+SoyJackReacher: Raise (NF) €0.30
+Payetpas: Call €0.30
+frLameche001: Fold
+Chrismas6967: Fold
+*** FLOP *** [D7 S10 C5]
+SoyJackReacher: Bet €0.24
+Payetpas: Call €0.24
+*** TURN *** [DJ]
+SoyJackReacher: Check
+Payetpas: Bet €1.30
+SoyJackReacher: Fold
+*** SUMMARY ***
+Total pot €1.15 Rake €0.08
+Payetpas: wins €1.15
+
+
+GAME #9171934435 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:45:07/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€20.21 in chips)  DEALER
+Seat 5: Chrismas6967 (€3.09 in chips)
+Seat 6: Dwayne27 (€11.11 in chips)
+Seat 8: SoyJackReacher (€10.00 in chips)
+Seat 10: Payetpas (€23.46 in chips)
+Chrismas6967: Post SB €0.05
+Dwayne27: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [C9 HA]
+SoyJackReacher: Fold
+Payetpas: Fold
+frLameche001: Raise (NF) €0.25
+Chrismas6967: Fold
+Dwayne27: Raise (NF) €1.10
+frLameche001: Fold
+*** SUMMARY ***
+Total pot €0.55 Rake €0.00
+Dwayne27: Mucks [C9 HA]
+Dwayne27: wins €0.55
+
+
+GAME #9171934535 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:45:32/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€19.96 in chips)
+Seat 5: Chrismas6967 (€3.04 in chips)  DEALER
+Seat 6: Dwayne27 (€11.41 in chips)
+Seat 8: SoyJackReacher (€10.00 in chips)
+Seat 10: Payetpas (€23.46 in chips)
+Dwayne27: Post SB €0.05
+SoyJackReacher: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [C4 HA]
+Payetpas: Fold
+frLameche001: Fold
+Chrismas6967: Call €0.10
+Dwayne27: Fold
+SoyJackReacher: Check
+*** FLOP *** [CK S4 S8]
+SoyJackReacher: Check
+Chrismas6967: Check
+*** TURN *** [H8]
+SoyJackReacher: Bet €0.10
+Chrismas6967: Fold
+*** SUMMARY ***
+Total pot €0.24 Rake €0.01
+SoyJackReacher: wins €0.24
+
+
+GAME #9171934605 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:46:04/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€19.96 in chips)
+Seat 5: Chrismas6967 (€2.94 in chips)
+Seat 6: Dwayne27 (€11.36 in chips)  DEALER
+Seat 8: SoyJackReacher (€10.14 in chips)
+Seat 10: Payetpas (€23.46 in chips)
+SoyJackReacher: Post SB €0.05
+Payetpas: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [SJ H9]
+frLameche001: Fold
+Chrismas6967: Fold
+Dwayne27: Raise (NF) €0.25
+SoyJackReacher: Fold
+Payetpas: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+Dwayne27: Mucks [SJ H9]
+Dwayne27: wins €0.25
+
+
+GAME #9171934641 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:46:19/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€19.96 in chips)
+Seat 5: Chrismas6967 (€2.94 in chips)
+Seat 6: Dwayne27 (€11.51 in chips)
+Seat 8: SoyJackReacher (€10.09 in chips)  DEALER
+Seat 10: Payetpas (€23.36 in chips)
+Payetpas: Post SB €0.05
+frLameche001: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [D8 DK]
+Chrismas6967: Fold
+Dwayne27: Raise (NF) €0.25
+SoyJackReacher: Call €0.25
+Payetpas: Call €0.20
+frLameche001: Fold
+*** FLOP *** [HK D9 S9]
+Payetpas: Check
+Dwayne27: Check
+SoyJackReacher: Bet €0.28
+Payetpas: Fold
+Dwayne27: Call €0.28
+*** TURN *** [H7]
+Dwayne27: Check
+SoyJackReacher: Check
+*** RIVER *** [H9]
+Dwayne27: Bet €0.40
+SoyJackReacher: Call €0.40
+*** SUMMARY ***
+Total pot €2.07 Rake €0.14
+Dwayne27: Shows [D8 DK] Full House, Nines full of Kings
+SoyJackReacher: Shows [CJ HJ] Full House, Nines full of Jacks
+Dwayne27: wins €2.07
+
+
+GAME #9171934794 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:47:35/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€19.86 in chips)
+Seat 3: guripax (€10.00 in chips)
+Seat 5: Chrismas6967 (€2.94 in chips)
+Seat 6: Dwayne27 (€12.65 in chips)
+Seat 8: SoyJackReacher (€10.00 in chips)
+Seat 10: Payetpas (€23.11 in chips)  DEALER
+frLameche001: Post SB €0.05
+guripax: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [H5 H3]
+Chrismas6967: Fold
+Dwayne27: Fold
+SoyJackReacher: Fold
+Payetpas: Fold
+frLameche001: Fold
+*** SUMMARY ***
+Total pot €0.10 Rake €0.00
+guripax: wins €0.10
+
+
+GAME #9171935936 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:47:48/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€19.81 in chips)  DEALER
+Seat 3: guripax (€10.05 in chips)
+Seat 5: Chrismas6967 (€2.94 in chips)
+Seat 6: Dwayne27 (€12.65 in chips)
+Seat 8: SoyJackReacher (€10.00 in chips)
+Seat 10: Payetpas (€23.11 in chips)
+guripax: Post SB €0.05
+Chrismas6967: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [D3 H2]
+Dwayne27: Fold
+SoyJackReacher: Fold
+Payetpas: Fold
+frLameche001: Fold
+guripax: Raise (NF) €0.30
+Chrismas6967: Fold
+*** SUMMARY ***
+Total pot €0.20 Rake €0.00
+guripax: wins €0.20
+
+
+GAME #9171937609 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:48:14/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€19.81 in chips)
+Seat 3: guripax (€10.15 in chips)  DEALER
+Seat 5: Chrismas6967 (€2.84 in chips)
+Seat 6: Dwayne27 (€12.65 in chips)
+Seat 8: SoyJackReacher (€10.00 in chips)
+Seat 10: Payetpas (€23.11 in chips)
+Chrismas6967: Post SB €0.05
+Dwayne27: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [S3 H8]
+SoyJackReacher: Raise (NF) €0.30
+Payetpas: Fold
+frLameche001: Fold
+guripax: Fold
+Chrismas6967: Fold
+Dwayne27: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+SoyJackReacher: wins €0.25
+
+
+GAME #9171937664 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:48:39/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€19.81 in chips)
+Seat 3: guripax (€10.15 in chips)
+Seat 5: Chrismas6967 (€2.79 in chips)  DEALER
+Seat 6: Dwayne27 (€12.55 in chips)
+Seat 8: SoyJackReacher (€10.15 in chips)
+Seat 10: Payetpas (€23.11 in chips)
+Dwayne27: Post SB €0.05
+SoyJackReacher: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [H7 SK]
+Payetpas: Fold
+frLameche001: Raise (NF) €0.25
+guripax: Fold
+Chrismas6967: Fold
+Dwayne27: Fold
+SoyJackReacher: Call €0.15
+*** FLOP *** [S2 S6 SA]
+SoyJackReacher: Check
+frLameche001: Check
+*** TURN *** [D8]
+SoyJackReacher: Check
+frLameche001: Check
+*** RIVER *** [D4]
+SoyJackReacher: Check
+frLameche001: Check
+*** SUMMARY ***
+Total pot €0.52 Rake €0.03
+frLameche001: Shows [H6 H9] One Pair, Sixes
+SoyJackReacher: Shows [HJ HQ] High Card, Ace
+frLameche001: wins €0.52
+
+
+GAME #9171942586 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:49:24/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€20.08 in chips)
+Seat 3: guripax (€10.15 in chips)
+Seat 5: Chrismas6967 (€2.79 in chips)
+Seat 6: Dwayne27 (€12.50 in chips)  DEALER
+Seat 8: SoyJackReacher (€10.00 in chips)
+Seat 10: Payetpas (€23.11 in chips)
+SoyJackReacher: Post SB €0.05
+Payetpas: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [D10 H5]
+frLameche001: Fold
+guripax: Fold
+Chrismas6967: Fold
+Dwayne27: Fold
+SoyJackReacher: Raise (NF) €0.30
+Payetpas: Call €0.20
+*** FLOP *** [C9 SA H7]
+SoyJackReacher: Bet €0.29
+Payetpas: Raise (NF) €0.78
+SoyJackReacher: Raise (NF) €2.07
+Payetpas: Fold
+*** SUMMARY ***
+Total pot €2.02 Rake €0.14
+SoyJackReacher: wins €2.02
+
+
+GAME #9171943562 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:50:26/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€20.08 in chips)
+Seat 3: guripax (€10.15 in chips)
+Seat 5: Chrismas6967 (€2.79 in chips)
+Seat 6: Dwayne27 (€12.50 in chips)
+Seat 8: SoyJackReacher (€10.94 in chips)  DEALER
+Seat 10: Payetpas (€22.03 in chips)
+Payetpas: Post SB €0.05
+frLameche001: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [SK H9]
+guripax: Fold
+Chrismas6967: Fold
+Dwayne27: Fold
+SoyJackReacher: Raise (NF) €0.30
+Payetpas: Fold
+frLameche001: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+SoyJackReacher: wins €0.25
+
+
+GAME #9171943602 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:50:46/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€19.98 in chips)
+Seat 3: guripax (€10.15 in chips)
+Seat 5: Chrismas6967 (€2.79 in chips)
+Seat 6: Dwayne27 (€12.50 in chips)
+Seat 8: SoyJackReacher (€11.09 in chips)
+Seat 10: Payetpas (€21.98 in chips)  DEALER
+frLameche001: Post SB €0.05
+guripax: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [H7 D3]
+Chrismas6967: Fold
+Dwayne27: Fold
+SoyJackReacher: Fold
+Payetpas: Fold
+frLameche001: Fold
+*** SUMMARY ***
+Total pot €0.10 Rake €0.00
+guripax: wins €0.10
+
+
+GAME #9171943633 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:51:02/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€19.93 in chips)  DEALER
+Seat 3: guripax (€10.20 in chips)
+Seat 5: Chrismas6967 (€2.79 in chips)
+Seat 6: Dwayne27 (€12.50 in chips)
+Seat 8: SoyJackReacher (€11.09 in chips)
+Seat 10: Payetpas (€21.98 in chips)
+guripax: Post SB €0.05
+Chrismas6967: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [H10 D4]
+Dwayne27: Fold
+SoyJackReacher: Fold
+Payetpas: Fold
+frLameche001: Raise (NF) €0.25
+guripax: Fold
+Chrismas6967: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+frLameche001: wins €0.25
+
+
+GAME #9171943687 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:51:28/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: frLameche001 (€20.08 in chips)
+Seat 3: guripax (€10.15 in chips)  DEALER
+Seat 5: Chrismas6967 (€2.69 in chips)
+Seat 6: Dwayne27 (€12.50 in chips)
+Seat 8: SoyJackReacher (€11.09 in chips)
+Seat 10: Payetpas (€21.98 in chips)
+Chrismas6967: Post SB €0.05
+Dwayne27: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [D3 C2]
+SoyJackReacher: Fold
+Payetpas: Fold
+frLameche001: Raise (NF) €0.25
+guripax: Fold
+Chrismas6967: Fold
+Dwayne27: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+frLameche001: wins €0.25
+
+
+GAME #9171944182 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:52:10/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 3: guripax (€10.15 in chips)
+Seat 5: Chrismas6967 (€2.64 in chips)  DEALER
+Seat 6: Dwayne27 (€12.40 in chips)
+Seat 8: SoyJackReacher (€11.09 in chips)
+Seat 10: Payetpas (€21.98 in chips)
+Seat 1: frLameche001 (€20.23 in chips)
+Dwayne27: Post SB €0.05
+SoyJackReacher: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [D3 C5]
+Payetpas: Fold
+frLameche001: Fold
+guripax: Raise (NF) €0.25
+Chrismas6967: Raise (NF) €2.64
+Dwayne27: Fold
+SoyJackReacher: Fold
+guripax: Fold
+*** SUMMARY ***
+Total pot €0.65 Rake €0.00
+Chrismas6967: wins €0.65
+
+
+GAME #9171945179 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:52:32/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 3: guripax (€10.00 in chips)
+Seat 5: Chrismas6967 (€3.04 in chips)
+Seat 6: Dwayne27 (€12.35 in chips)  DEALER
+Seat 8: SoyJackReacher (€10.99 in chips)
+Seat 10: Payetpas (€21.98 in chips)
+SoyJackReacher: Post SB €0.05
+Payetpas: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [D5 DJ]
+guripax: Raise (NF) €0.25
+Chrismas6967: Fold
+Dwayne27: Fold
+SoyJackReacher: Fold
+Payetpas: Call €0.15
+*** FLOP *** [D3 S5 C8]
+Payetpas: Check
+guripax: Check
+*** TURN *** [S9]
+Payetpas: Bet €0.40
+guripax: Fold
+*** SUMMARY ***
+Total pot €0.52 Rake €0.03
+Payetpas: wins €0.52
+
+
+GAME #9171945324 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:53:36/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: Buzzerage (€10.00 in chips)
+Seat 3: guripax (€10.00 in chips)
+Seat 5: Chrismas6967 (€3.04 in chips)
+Seat 6: Dwayne27 (€12.35 in chips)
+Seat 8: SoyJackReacher (€10.94 in chips)  DEALER
+Seat 10: Payetpas (€22.25 in chips)
+Payetpas: Post SB €0.05
+Buzzerage: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [S8 H4]
+guripax: Fold
+Chrismas6967: Fold
+Dwayne27: Fold
+SoyJackReacher: Raise (NF) €0.30
+Payetpas: Call €0.25
+Buzzerage: Fold
+*** FLOP *** [HJ S2 D9]
+Payetpas: Check
+SoyJackReacher: Bet €0.23
+Payetpas: Call €0.23
+*** TURN *** [C9]
+Payetpas: Check
+SoyJackReacher: Check
+*** RIVER *** [DA]
+Payetpas: Check
+SoyJackReacher: Check
+*** SUMMARY ***
+Total pot €1.09 Rake €0.07
+SoyJackReacher: Shows [S10 H10] Two Pair, Tens and Nines
+Payetpas: Shows [SQ HK] One Pair, Nines
+SoyJackReacher: wins €1.09
+
+
+GAME #9171947942 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:54:16/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: Buzzerage (€10.00 in chips)
+Seat 3: guripax (€10.00 in chips)
+Seat 5: Chrismas6967 (€3.04 in chips)
+Seat 6: Dwayne27 (€12.35 in chips)
+Seat 8: SoyJackReacher (€11.50 in chips)
+Seat 10: Payetpas (€21.72 in chips)  DEALER
+Buzzerage: Post SB €0.05
+guripax: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [H8 H5]
+Chrismas6967: Fold
+Dwayne27: Fold
+SoyJackReacher: Raise (NF) €0.30
+Payetpas: Fold
+Buzzerage: Fold
+guripax: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+SoyJackReacher: wins €0.25
+
+
+GAME #9171947985 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:54:33/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: Buzzerage (€10.00 in chips)  DEALER
+Seat 3: guripax (€10.00 in chips)
+Seat 5: Chrismas6967 (€3.04 in chips)
+Seat 6: Dwayne27 (€12.35 in chips)
+Seat 8: SoyJackReacher (€11.65 in chips)
+Seat 10: Payetpas (€21.72 in chips)
+guripax: Post SB €0.05
+Chrismas6967: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [C9 S10]
+Dwayne27: Fold
+SoyJackReacher: Fold
+Payetpas: Fold
+Buzzerage: Fold
+guripax: Raise (NF) €0.30
+Chrismas6967: Fold
+*** SUMMARY ***
+Total pot €0.20 Rake €0.00
+guripax: wins €0.20
+
+
+GAME #9171948026 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:54:55/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: Buzzerage (€10.00 in chips)
+Seat 3: guripax (€10.10 in chips)  DEALER
+Seat 5: Chrismas6967 (€2.94 in chips)
+Seat 6: Dwayne27 (€12.35 in chips)
+Seat 8: SoyJackReacher (€11.65 in chips)
+Seat 10: Payetpas (€21.72 in chips)
+Chrismas6967: Post SB €0.05
+Dwayne27: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [S2 SJ]
+SoyJackReacher: Fold
+Payetpas: Fold
+Buzzerage: Fold
+guripax: Fold
+Chrismas6967: Fold
+*** SUMMARY ***
+Total pot €0.10 Rake €0.00
+Dwayne27: Mucks [S2 SJ]
+Dwayne27: wins €0.10
+
+
+GAME #9171950950 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:55:31/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: Buzzerage (€10.00 in chips)
+Seat 3: guripax (€10.10 in chips)
+Seat 5: Chrismas6967 (€2.89 in chips)  DEALER
+Seat 6: Dwayne27 (€12.40 in chips)
+Seat 8: SoyJackReacher (€11.65 in chips)
+Seat 10: Payetpas (€21.72 in chips)
+Dwayne27: Post SB €0.05
+SoyJackReacher: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [C5 S10]
+Payetpas: Fold
+Buzzerage: Fold
+guripax: Fold
+Chrismas6967: Raise (NF) €2.89
+Dwayne27: Fold
+SoyJackReacher: Fold
+*** SUMMARY ***
+Total pot €0.25 Rake €0.00
+Chrismas6967: wins €0.25
+
+
+GAME #9171953018 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:56:09/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: Buzzerage (€10.00 in chips)
+Seat 3: guripax (€10.10 in chips)
+Seat 5: Chrismas6967 (€3.04 in chips)
+Seat 6: Dwayne27 (€12.35 in chips)  DEALER
+Seat 8: SoyJackReacher (€11.55 in chips)
+Seat 10: Payetpas (€21.72 in chips)
+SoyJackReacher: Post SB €0.05
+Payetpas: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [H9 H4]
+Buzzerage: Fold
+guripax: Fold
+Chrismas6967: Fold
+Dwayne27: Fold
+SoyJackReacher: Fold
+*** SUMMARY ***
+Total pot €0.10 Rake €0.00
+Payetpas: wins €0.10
+
+
+GAME #9171953059 Version:26.5.1.11 Uncalled:Y Texas Hold'em NL €0.05/€0.10 2026-11-18 20:56:28/CET
+Table Info: Size: 6, Blinds: 0.05/0.10
+Table Goulburn, 560234272
+Seat 1: Buzzerage (€10.00 in chips)
+Seat 3: guripax (€10.10 in chips)
+Seat 5: Chrismas6967 (€3.04 in chips)
+Seat 6: Dwayne27 (€12.35 in chips)
+Seat 8: SoyJackReacher (€11.50 in chips)  DEALER
+Seat 10: Payetpas (€21.77 in chips)
+Payetpas: Post SB €0.05
+Buzzerage: Post BB €0.10
+*** HOLE CARDS ***
+Dealt to Dwayne27 [H8 C4]
+guripax: Fold
+Chrismas6967: Fold
+Dwayne27: Fold
+SoyJackReacher: Fold
+Payetpas: Fold
+*** SUMMARY ***
+Total pot €0.10 Rake €0.00
+Buzzerage: wins €0.10
